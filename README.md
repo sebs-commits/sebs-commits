@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on creating an AI Powered Study Web Application
+
 
 
 # 💻 Tech Stack:
